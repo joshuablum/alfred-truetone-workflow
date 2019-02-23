@@ -6,6 +6,8 @@ It's really useful for when you are e.g. a designer and enjoy reading websites, 
 
 Since Apple does not provide a special System Event (yet?), the toggle is being changed by GUI scripting.
 
+It is also possible to add a global hotkey/shortcut or notification after running the workflow (see screenshot at the bottom).
+
 ## Demo
 ![A GIF demoing the workflow](demo.gif)
 
