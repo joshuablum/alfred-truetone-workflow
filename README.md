@@ -7,7 +7,7 @@ It's really useful for when you are e.g. a designer and enjoy reading websites, 
 Since Apple does not provide a special System Event (yet?), the toggle is being changed by GUI scripting.
 
 ## Demo
-![A GIF demoing the workflow](alfred-truetone-workflow/demo.gif)
+![A GIF demoing the workflow](demo.gif)
 
 ## Workflow structure
-![Screenshot of workflow settings in Alfred.app](alfred-truetone-workflow/screenshot.png)
+![Screenshot of workflow settings in Alfred.app](screenshot.png)
